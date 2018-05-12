@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32308
     wikipedia: http://en.wikipedia.org/wiki/David_H._Keller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26890#The-Rat-Racket
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-10-12'
 gutenberg_type: Text
